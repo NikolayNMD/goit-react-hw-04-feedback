@@ -1,0 +1,14 @@
+.btn_cont {
+  display: flex;
+  gap: 5px;
+}
+
+button {
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid gray;
+  font-weight: 600;
+  font-size: 12px;
+  cursor: pointer;
+  text-transform: capitalize;
+}
